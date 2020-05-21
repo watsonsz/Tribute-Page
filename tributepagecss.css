@@ -1,8 +1,9 @@
 //Css information for tribute page.html
-html { background-image: url("jester.jpg");
+  body { background-image: url("jester.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  position: fixed;
   background-size: cover;}
-.box {justify-items: center; color:white; font-family: monospace; background-color: black; opacity: 75%;
- border-color:white; border-style: solid; border-width:1px;
- margin: 100px;}
+.box {position: center; text-align: center; color:white; font-family: monospace; background-color: black;
+ border-color:white; border-style: solid; border-width:1px;}
+ #image{ max-width: 100%;
+  height: auto;}
