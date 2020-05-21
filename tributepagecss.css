@@ -1,5 +1,5 @@
 //Css information for tribute page.html
-html { background-image: url("jester.jpg");
+#main { background-image: url("jester.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;}
