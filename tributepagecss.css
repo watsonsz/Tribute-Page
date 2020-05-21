@@ -9,6 +9,7 @@
   height: auto;
   padding-top:25px;}
   #image-caption {font-size:.5em;}
+  #main {margin-top: 100px}
   body { background-image: url("jester.jpg");
   background-repeat: no-repeat;
   background-position: fixed;
