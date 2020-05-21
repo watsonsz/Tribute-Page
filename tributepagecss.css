@@ -1,3 +1,7 @@
 //Css information for tribute page.html
-body {justify-items: center; color:white; font-family: monospace;}
-html {background: linear-gradient(35deg, #e54f04, #d99904, #f99405)}
+#box {justify-items: center; color:white; font-family: monospace; background-color: black; opacity: 75%;
+ border-color:white; border-style: solid; border-width:1px;}
+html { background-image: url("jester.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
