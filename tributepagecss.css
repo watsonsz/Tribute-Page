@@ -1,0 +1,12 @@
+//Css information for tribute page.html
+.box {position: center; text-align: center; color:white; font-family: monospace; background-color: black;
+ border-color:rgb(100, 94, 94); border-style: outset; border-width:3px; margin-left: 100px; margin-right: 100px;}
+ #image{ max-width: 100%;
+  height: auto;
+  padding-top:25px;}
+  #image-caption {font-size:.5em;}
+  #main {margin-top: 100px}
+  body { background-image: url("jester.jpg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;}
